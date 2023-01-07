@@ -1,0 +1,45 @@
+setup.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/__init__.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/__init__.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/__init__.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/performance_metrics.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/adapters/__init__.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/adapters/model_adapter.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/adapters/openvino_adapter.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/adapters/ovms_adapter.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/adapters/utils.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/__init__.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/background_matting.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/bert.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/centernet.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/classification.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/ctpn.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/deblurring.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/detection_model.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/detr.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/faceboxes.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/hpe_associative_embedding.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/image_model.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/instance_segmentation.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/model.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/monodepth.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/nanodet.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/open_pose.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/retinaface.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/segmentation.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/ssd.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/tokens_bert.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/types.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/ultra_lightweight_face_detection.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/utils.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/models/yolo.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/pipelines/__init__.py
+C:/Users/JAPAN COMPUTERS/Downloads/open_model_zoo-master/open_model_zoo-master/demos/common/python/openvino/model_zoo/model_api/pipelines/async_pipeline.py
+openmodelzoo_modelapi.egg-info/PKG-INFO
+openmodelzoo_modelapi.egg-info/SOURCES.txt
+openmodelzoo_modelapi.egg-info/dependency_links.txt
+openmodelzoo_modelapi.egg-info/requires.txt
+openmodelzoo_modelapi.egg-info/top_level.txt
+visualizers/__init__.py
+visualizers/drawing_utils.py
+visualizers/instance_segmentation.py
